@@ -23,6 +23,8 @@
 
 ---
 
+https://github.com/user-attachments/assets/265ffff4-b7a9-4b22-8575-e57b5b87b1c7
+
 ## 🧰 Tech Stack
 
 | Layer            | Technologies                               |
@@ -90,6 +92,4 @@ python manage.py runserver
 ```
 
 ---
-
-https://github.com/user-attachments/assets/f0ac2e30-94e2-4df1-81b5-ce08076e2a22
 
