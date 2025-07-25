@@ -77,7 +77,7 @@ npm start
 ```
 ### 4. Start the Django Dashboard Backend
 ```bash
-cd dashboard
+cd backend
 pip install -r requirements.txt
 python manage.py makemigrations
 python manage.py migrate
@@ -87,9 +87,10 @@ python manage.py runserver
 ### 5. Start Django Dashboard
 
 ```bash
-cd dashboard
+cd backend
 python manage.py runserver
 ```
 
 ---
+
 
