@@ -400,7 +400,7 @@ def accident(video_path,address):
     if accident_labels['type'] == "SevereAccident":
         severity_score+=1
 
-    GOOGLE_API_KEY = 'AIzaSyDSjQTk7ZQDoPqsO2QimA1v0NwVkWvUAE0'  # Replace with your actual API key
+    GOOGLE_API_KEY = 'API_KEY'  # Replace with your actual API key
     genai.configure(api_key=GOOGLE_API_KEY)
     model = genai.GenerativeModel('gemini-2.0-flash')
 
